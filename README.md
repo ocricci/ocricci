@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ocricci
 - 👀 I’m interested in software architecture and backend software development ( using Golang, Lua, Rust and PHP )
 - 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on projects related to backend dev and educational content 
+- 💞️ I’m looking to collaborate on projects related to backend dev and educational content
+- 💞️ game dev as a hobby
 - 📫 How to reach me: https://twitter.com/ocricci
 
 <!---
