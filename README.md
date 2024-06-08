@@ -4,11 +4,11 @@ My name is Rafael,
 
 I work as a backend engineer ( with more than fourteen years of experience - ✨ still making mistakes ✨ )
 
-This github account is used for studying purposes
-
 I’m interested in software architecture and backend development ( PHP, Golang, Lua, Ruby, Rust and a little bit of Elixir )
 
 I’m currently "building my own version of ..." Redis using Ruby ( following books and tutorials to achieve this goal, you can [check out the progress here](https://github.com/ocricci/src-ruby-cache-myownredis)
+
+This github account is used for studying purposes
 
 How to reach me:
 
