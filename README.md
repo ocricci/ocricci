@@ -4,7 +4,7 @@ My name is Rafael,
 
 I work as a backend engineer ( with more than fourteen years of experience - ✨ still making mistakes ✨ )
 
-I use this github account for studying and exploration purposes
+I use this github account for studying purposes
 
 I’m interested in software architecture and backend software development ( PHP, Golang, Lua, Ruby, Rust and a little bit of Elixir )
 
