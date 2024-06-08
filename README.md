@@ -4,16 +4,16 @@ My name is Rafael,
 
 I work as a backend engineer ( with more than fourteen years of experience - ✨ still making mistakes ✨ )
 
-I use this github account for studying purposes
+This github account is used for studying purposes
 
-I’m interested in software architecture and backend software development ( PHP, Golang, Lua, Ruby, Rust and a little bit of Elixir )
+I’m interested in software architecture and backend development ( PHP, Golang, Lua, Ruby, Rust and a little bit of Elixir )
 
-I’m currently "building my own version of ..." Redis using Ruby ( following books and tutorials to achieve this goal )
+I’m currently "building my own version of ..." Redis using Ruby ( following books and tutorials to achieve this goal, you can [check out the progress here](https://github.com/ocricci/src-ruby-cache-myownredis)
 
 How to reach me:
 
-- https://x.com/ocricci
-- https://www.linkedin.com/in/rafael-ricci-a959ab89/
+- [X](https://x.com/ocricci)
+- [LinkedIn](https://www.linkedin.com/in/rafael-ricci-a959ab89/)
 
 ( Profile picture: Charlie the Pug - my good old friend, snoring loudly during calls and sleeping while I code )
 
