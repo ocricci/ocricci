@@ -15,6 +15,8 @@ How to reach me:
 - https://x.com/ocricci
 - https://www.linkedin.com/in/rafael-ricci-a959ab89/
 
+( Profile picture: Charlie the Pug - my good old friend, snoring loudly during calls and sleeping while I code )
+
 <!---
 ocricci/ocricci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
