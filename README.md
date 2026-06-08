@@ -8,11 +8,6 @@ I’m interested in software architecture and backend development ( PHP, Golang,
 
 This github account is used for studying purposes
 
-How to reach me:
-
-- [X](https://x.com/ocricci)
-- [LinkedIn](https://www.linkedin.com/in/rafael-ricci-a959ab89/)
-
 ( Profile picture: Charlie the Pug - my good old friend, snoring loudly during calls and sleeping while I code )
 
 <!---
